@@ -26,7 +26,7 @@
    - **`Header.tsx`**:  
      - Display the `logoText` prop inside an `<h1>` tag.
    - **`Info.tsx`**:  
-     - Display the `firstname`, `lastname`, and `age` props inside a `<div>`. Format the output as:  
+     - Display the `firstname`, `lastname`, `age`, and `isStudent` props inside a `<div>`. Format the output as:  
        `"Name: [firstname] [lastname], Age: [age], Is student: [Yes if true, No if false]"`.
 
 6. Commit and push your changes.
